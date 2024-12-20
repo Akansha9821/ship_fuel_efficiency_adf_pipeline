@@ -1,0 +1,9 @@
+{
+	"name": "allinoneadf123",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bd3daf94-d865-43ec-9ae5-bcc4ae4c30c3",
+		"tenantId": "f97aa8f8-61b5-4bc8-a5ef-168bf6e436a0"
+	}
+}
